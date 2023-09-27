@@ -42,7 +42,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Decode morse code full messages**
+- Decrypts morse messages
+- Utilizes reusable methods
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,6 +106,16 @@ Install this project with:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Here are some future features that could be added to the Morse Code in the future.
+
+- **Improving the Morse Code Algorithim:** This would help us decode the code much better.
+
+These are just a few ideas for future features that could be added to the Morse Code. The specific features that are added will depend on the needs and wants of the users.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
