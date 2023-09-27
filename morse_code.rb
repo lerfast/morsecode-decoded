@@ -20,4 +20,6 @@ def decode_message(morse_message)
   morse_words.map { |morse_word| decode_word(morse_word) }.join(' ')
 end
 
-
+morse_code_message = '.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...'
+decoded_message = decode_message(morse_code_message)
+puts decoded_message
